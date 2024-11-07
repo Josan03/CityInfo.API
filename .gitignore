@@ -24,8 +24,8 @@ x64/
 x86/
 build/
 bld/
-[Bb]in/
-[Oo]bj/
+CityInfo.API/[Bb]in/
+CityInfo.API/[Oo]bj/
 msbuild.log
 msbuild.err
 msbuild.wrn
